@@ -3,10 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@types/jest": "^29.5.14",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "axios": "^1.7.9",
+    "babel-jest": "^29.7.0",
     "cra-template-redux-typescript": "2.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "^5.0.1"
+    "react-redux": "^9.2.0",
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.7.2",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
